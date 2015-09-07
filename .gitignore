@@ -1,0 +1,28 @@
+############
+# File
+############
+*.user
+*.sln
+*.log
+*.tmp
+*.o
+*.lo
+*.slo
+*.obj
+*.suo
+*.so
+*.dll
+*.a
+*.lib
+*.exe
+
+Desktop.ini
+Thumbs.db 
+
+############
+# Directory
+############
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
